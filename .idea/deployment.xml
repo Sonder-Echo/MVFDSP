@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="wangzhengkang@202.197.33.114:223 password (12)" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="wangzhengkang@202.197.33.114:223 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Project_modelCode/SideEffect/A-3Net" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wangzhengkang@202.197.33.114:223 password (12)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data4t/wangzhengkang/Project_modelCode/SideEffect/MVFDSP" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wangzhengkang@202.197.33.114:223 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data4t/wangzhengkang/Project_modelCode/SideEffect/MVFDSP" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
