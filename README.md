@@ -64,5 +64,3 @@ train.py: Training for the frequency of drugs and side effects.
 ```bash
 python train.py --tenfold --save_model --epoch 12000 --lr 0.00005
 ```
-# Contact
-If you have any questions or suggestions with the code, please let us know. Contact Zhengkang Wang at wangzhengkang@stu.xju.edu.cn.
